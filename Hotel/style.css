@@ -1,0 +1,475 @@
+#full{
+	width: 100%;
+	height: auto;
+}
+#btn{
+	display: none;
+}
+#header{
+	width: 100%;
+	height: 100px;
+	background: rgba(155, 155, 155, 0.8);
+	position: fixed;
+}
+#logo{
+	width: 30%;
+	height: 100px;
+	float: left;
+}
+#nav{
+	width: 70%;
+	height: 100px;
+	float: left;
+}
+ul li{
+	list-style: none;
+	float: left;
+	width: 14%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+h1{
+	padding: 10px;
+}
+#f1{
+	width: 100%;
+	height: 150px;
+	background-color: lightskyblue;
+}
+
+#welcome{
+	width: 100%;
+	height: auto;
+}
+#g1{
+	width: 100%;
+	height: 500px;
+}
+#one{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+#two{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+#three{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+
+
+@media (max-width: 1500px) and (min-width: 1000px)
+{
+#full{
+	width: 100%;
+	height: auto;
+}
+#btn{
+	display: none;
+}
+#header{
+	width: 100%;
+	height: 100px;
+	background: rgba(155, 155, 155, 0.8);
+	position: fixed;
+}
+#logo{
+	width: 30%;
+	height: 100px;
+	float: left;
+}
+#nav{
+	width: 70%;
+	height: 100px;
+	float: left;
+}
+ul li{
+	list-style: none;
+	float: left;
+	width: 14%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+h1{
+	padding: 10px;
+}
+#f1{
+	width: 100%;
+	height: 150px;
+	background-color: yellow;
+}
+
+#welcome{
+	width: 100%;
+	height: auto;
+}
+#g1{
+	width: 100%;
+	height: 500px;
+}
+#one{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+#two{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+#three{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+}
+
+
+
+@media (max-width: 1000px) and (min-width: 700px)
+{
+	#full{
+	width: 100%;
+	height: auto;
+}
+#btn{
+	display: none;
+}
+#header{
+	width: 100%;
+	height: auto;
+	background: rgba(155, 155, 155, 0.8);
+	position: fixed;
+}
+#logo{
+	width: 100%;
+	height: 100px;
+}
+#nav{
+	width: 100%;
+	height: 100px;
+}
+ul li{
+	list-style: none;
+	float: left;
+	width: 14%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+h1{
+	padding: 10px;
+}
+#f1{
+	width: 100%;
+	height: 150px;
+	background-color: yellow;
+}
+
+#welcome{
+	width: 100%;
+	height: auto;
+}
+#g1{
+	width: 100%;
+	height: 500px;
+}
+#one{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+#two{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+#three{
+	width: 33%;
+	height: auto;
+	float: left;
+}
+#btn{
+	display: none;
+}
+}
+
+
+
+@media (max-width: 700px) and (min-width: 500px)
+{
+	#full{
+	width: 100%;
+	height: auto;
+}
+#btn{
+	display: none;
+}
+#header{
+	width: 100%;
+	height: auto;
+	background: rgba(155, 155, 155, 0.8);
+	position: fixed;
+}
+#logo{
+	width: 100%;
+	height: 100px;
+}
+#nav{
+	width: 100%;
+	height: 100px;
+}
+ul li{
+	list-style: none;
+	float: left;
+	width: 14%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+h1{
+	padding: 10px;
+}
+#f1{
+	width: 100%;
+	height: 150px;
+	background-color: yellow;
+}
+
+#welcome{
+	width: 100%;
+	height: auto;
+}
+#g1{
+	width: 100%;
+	height: auto;
+}
+#one{
+	width: 100%;
+	height: auto;
+}
+#two{
+	width: 100%;
+	height: auto;
+}
+#three{
+	width: 100%;
+	height: auto;
+}
+#btn{
+	display: none;
+}
+}
+
+
+@media (max-width: 500px) and (min-width: 50px)
+{
+#full{
+	width: 100%;
+	height: auto;
+}
+
+#header{
+	width: 100%;
+	height: auto;
+	background: rgba(155, 155, 155, 0.8);
+	position: fixed;
+}
+#logo{
+	width: 100%;
+	height: 100px;
+}
+#nav{
+	width: 100%;
+	height: auto;
+	display: none;
+}
+ul li{
+	list-style: none;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+h1{
+	padding: 10px;
+}
+#f1{
+	width: 100%;
+	height: 150px;
+	background-color: yellow;
+}
+
+#welcome{
+	width: 100%;
+	height: auto;
+}
+#g1{
+	width: 100%;
+	height: auto;
+}
+#one{
+	width: 100%;
+	height: auto;
+}
+#two{
+	width: 100%;
+	height: auto;
+}
+#three{
+	width: 100%;
+	height: auto;
+}
+}
+
+
+
+/*-----------r1phpcss-----------*/
+
+#banner1{
+	background: lightpink;
+	width: 100%;
+	height: 1200px;
+}
+#form{
+	width: 600px;
+	height: auto;
+	padding-top: 30px;
+	padding-left: 50px;
+}
+td
+{
+	width: 300px;
+	height: 50px;
+}
+
+
+
+/*-----------commentphpcss-----------*/
+#comment1{
+	margin: 0; padding: 0; box-sizing: border-box;
+	background: white;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+#wrapper{
+	background: lightgray;
+	border-radius: 10px;
+	width: 500px;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+}
+#name{
+	background: #222222;
+	color: white;
+	font-size: 15px;
+	width: 450px;
+	border-radius: 20px;
+	padding: 10px;
+	border: none;
+	outline: none;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+#message{
+	background: #222222;
+	color: white;
+	font-size: 15px;
+	width: 450px;
+	border-radius: 20px;
+	padding: 10px;
+	border: none;
+	outline: none;
+	resize: none;
+}
+#button1{
+	background: #222222;
+	color: white;
+	font-size: 15px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 10px;
+	width: 200px;
+	border-radius: 20px;
+	margin: 0 auto;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 20px;
+	opacity: 0.8;
+	transition: 0.3s all ease;
+}
+#button1:hover{
+	opacity: 1;
+}
+#content1{
+	text-align: center;
+	background: darkgrey;
+	color: white;
+	padding: 10px;
+	width: 480px;
+	border-radius: 10px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+/*-----------admin_loginphpcss-----------*/
+#admin_login{
+	background: skyblue;
+	height: 360px;
+	width: 100%;
+}
+/*-----------registration_pagephpcss-----------*/
+#Final_Page{
+	background: white;
+}
+/*-----------admin_indexphpcss-----------*/
+#c_login{
+	background: orangered;
+	height: 360px;
+	width: 100%;
+}
+
+
+.srch {
+            padding-left: 1000px;
+
+        }
+
+/*-----------checklistphpcss-----------*/
+#checklist{
+	height: 100px;
+}
+
